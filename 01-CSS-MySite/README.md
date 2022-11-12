@@ -9,10 +9,11 @@
 - Header Section
 ![Header](https://jamcajulao.github.io/Web-Development-Bootcamp/01-CSS-MySite/images/header.png)
 - Skills Section
-![Header](https://jamcajulao.github.io/Web-Development-Bootcamp/01-CSS-MySite/images/header.png)
+![Header](https://jamcajulao.github.io/Web-Development-Bootcamp/01-CSS-MySite/images/skills.png)
 - Contact Section
 - Footer Section
-
+![Contact and Footer](https://jamcajulao.github.io/Web-Development-Bootcamp/01-CSS-MySite/images/contact.png)
+- Skills Section
 
 ## Code Stack
 - HTML
