@@ -1,5 +1,5 @@
 # My Site
-[LIVE PREVIEW]()
+[LIVE PREVIEW](https://jamcajulao.github.io/Web-Development-Bootcamp/01-CSS-MySite/)
 
 ## Description
 - A simple web developer portfolio landing page. This project is part of the
@@ -7,12 +7,12 @@
 
 ## Features
 - Header Section
-![[images/header.png]]
+![Header](https://jamcajulao.github.io/Web-Development-Bootcamp/01-CSS-MySite/images/header.png)
 - Skills Section
-![[images/skills.png]]
+![Header](https://jamcajulao.github.io/Web-Development-Bootcamp/01-CSS-MySite/images/header.png)
 - Contact Section
 - Footer Section
-![[images/contact.png]]
+
 
 ## Code Stack
 - HTML
