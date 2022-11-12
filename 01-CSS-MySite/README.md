@@ -13,10 +13,8 @@
 - Contact Section
 - Footer Section
 ![Contact and Footer](https://jamcajulao.github.io/Web-Development-Bootcamp/01-CSS-MySite/images/contact.png)
-- Skills Section
 
 ## Code Stack
 - HTML
 - CSS
 
-This
